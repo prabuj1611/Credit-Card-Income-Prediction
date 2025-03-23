@@ -67,6 +67,7 @@ The dataset contains financial and demographic details related to credit card ho
 ---
 
 ## 🛠 Tech Stack
+
 - **Python** 🐍
 - **Pandas** (`pandas`)
 - **NumPy** (`numpy`)
@@ -77,6 +78,7 @@ The dataset contains financial and demographic details related to credit card ho
 ---
 
 ## 📊 Key Results & Observations
+
 - The correlation between **dependents & income** is **weak**, meaning **other factors influence income more**.
 - The **Multiple Linear Regression (MLR) model** provided **better predictions** by including more variables.
 - Identified **limitations** of predicting income based on numeric attributes alone.
@@ -84,6 +86,7 @@ The dataset contains financial and demographic details related to credit card ho
 ---
 
 ## 🔍 Future Improvements
+
 - **Incorporate categorical variables** (e.g., job type, education level) using **one-hot encoding**.
 - **Use polynomial regression** to capture **non-linear relationships**.
 - **Test feature engineering** to derive better predictive features.
@@ -91,6 +94,7 @@ The dataset contains financial and demographic details related to credit card ho
 ---
 
 ## 📜 References
+
 - **Supervised Machine Learning** course materials
 - **Scikit-Learn documentation**: https://scikit-learn.org
 - **Statsmodels documentation**: https://www.statsmodels.org
@@ -98,6 +102,7 @@ The dataset contains financial and demographic details related to credit card ho
 ---
 
 ## 👨‍💻 Author
+
 **Prabu Jeyabalan**  
 
 
