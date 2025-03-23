@@ -4,6 +4,7 @@ Supervised Learning: Simple &amp; Multiple Linear Regression with Credit Card Da
 # Credit Card Income Prediction: Simple & Multiple Linear Regression
 
 ## 📖 Overview
+
 This repository contains an **analysis of credit card data** using **Simple Linear Regression (SLR) and Multiple Linear Regression (MLR)** to predict **income** based on various numerical attributes. 
 
 The analysis is divided into **two parts**:
@@ -15,6 +16,7 @@ This project is part of a **Supervised Machine Learning assignment**, focusing o
 ---
 
 ## 📂 Dataset: `CreditCard.csv`
+
 The dataset contains financial and demographic details related to credit card holders. It includes:
 - **Income** (target variable)
 - **Dependents** (spouse & children under care)
