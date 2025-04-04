@@ -26,7 +26,7 @@ The dataset contains financial and demographic details related to credit card ho
 
 ##  Tasks & Implementation
 
-### ** Part 1: Simple Linear Regression**
+### **Part 1: Simple Linear Regression**
 1. **Data Exploration**
    - Load & describe dataset
    - Identify number of rows & columns
@@ -49,7 +49,7 @@ The dataset contains financial and demographic details related to credit card ho
 
 ---
 
-### ** Part 2: Multiple Linear Regression**
+### **Part 2: Multiple Linear Regression**
 1. **Feature Selection**
    - Create a **correlation table** for all numerical predictors.
    - Identify potential **multicollinearity issues**.
