@@ -3,7 +3,7 @@ Supervised Learning: Simple &amp; Multiple Linear Regression with Credit Card Da
 
 # Credit Card Income Prediction: Simple & Multiple Linear Regression
 
-## 📖 Overview
+##  Overview
 
 This repository contains an **analysis of credit card data** using **Simple Linear Regression (SLR) and Multiple Linear Regression (MLR)** to predict **income** based on various numerical attributes. 
 
@@ -15,7 +15,7 @@ This project is part of a **Supervised Machine Learning assignment**, focusing o
 
 ---
 
-## 📂 Dataset: `CreditCard.csv`
+##  Dataset: `CreditCard.csv`
 
 The dataset contains financial and demographic details related to credit card holders. It includes:
 - **Income** (target variable)
@@ -24,9 +24,9 @@ The dataset contains financial and demographic details related to credit card ho
 
 ---
 
-## 🚀 Tasks & Implementation
+##  Tasks & Implementation
 
-### **📌 Part 1: Simple Linear Regression**
+### ** Part 1: Simple Linear Regression**
 1. **Data Exploration**
    - Load & describe dataset
    - Identify number of rows & columns
@@ -49,7 +49,7 @@ The dataset contains financial and demographic details related to credit card ho
 
 ---
 
-### **📌 Part 2: Multiple Linear Regression**
+### ** Part 2: Multiple Linear Regression**
 1. **Feature Selection**
    - Create a **correlation table** for all numerical predictors.
    - Identify potential **multicollinearity issues**.
@@ -68,7 +68,7 @@ The dataset contains financial and demographic details related to credit card ho
 
 ## 🛠 Tech Stack
 
-- **Python** 🐍
+- **Python** 
 - **Pandas** (`pandas`)
 - **NumPy** (`numpy`)
 - **Matplotlib & Seaborn** (`matplotlib`, `seaborn`) for visualization
@@ -77,7 +77,7 @@ The dataset contains financial and demographic details related to credit card ho
 
 ---
 
-## 📊 Key Results & Observations
+##  Key Results & Observations
 
 - The correlation between **dependents & income** is **weak**, meaning **other factors influence income more**.
 - The **Multiple Linear Regression (MLR) model** provided **better predictions** by including more variables.
@@ -85,7 +85,7 @@ The dataset contains financial and demographic details related to credit card ho
 
 ---
 
-## 🔍 Future Improvements
+##  Future Improvements
 
 - **Incorporate categorical variables** (e.g., job type, education level) using **one-hot encoding**.
 - **Use polynomial regression** to capture **non-linear relationships**.
@@ -93,7 +93,7 @@ The dataset contains financial and demographic details related to credit card ho
 
 ---
 
-## 📜 References
+##  References
 
 - **Supervised Machine Learning** course materials
 - **Scikit-Learn documentation**: https://scikit-learn.org
@@ -101,7 +101,7 @@ The dataset contains financial and demographic details related to credit card ho
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 **Prabu Jeyabalan**  
 
